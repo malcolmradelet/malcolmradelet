@@ -14,6 +14,7 @@
 <img align="left" alt="Azure" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/azure/azure-original.svg" />
 <img align="left" alt="AWS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Chrome" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/chrome/chrome-original.svg" />
+<img align="left" alt="ElasticStack" width="50px" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt7c665c2ab90dd251/5bd9e3ad4ed46d9b5fbadd02/icon-elastic-stack-bb.svg" />
 <!---
 malcolmradelet/malcolmradelet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
